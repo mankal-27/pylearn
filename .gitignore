@@ -1,0 +1,64 @@
+# Byte-compiled / cached files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+*.env
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# pytest cache
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+
+# Build and distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.iml
+
+# PyCharm specific
+/.idea/
+*.iml
+workspace.xml
+.idea/modules.xml
+.idea/*.iml
+.idea/workspace.xml
+
+# SQLite database
+*.sqlite3
+*.db
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Docker / Kubernetes
+*.dockerignore
+docker-compose.override.yml
