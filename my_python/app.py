@@ -15,3 +15,9 @@ print(x)
 print("Hi Python")
 print('Hello Python')
 
+print("Hi \"Python\" ")
+
+print('Hi "Python!"')
+
+print("Message1 \n")
+print("Message2")
